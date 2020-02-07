@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "             [Presented By: TAPs]                              "       
-echo "              The Ace Programmigs                              "       
-echo "                   0x0is1                                      "       
+echo "             [Presented By: 0x0is1]                              "       
+echo "              The Ace Programmnigs Lab                             "       
 
 echo "Move all files to be moved to sk8Locker at home directory"
 cd $HOME
