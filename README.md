@@ -1,3 +1,4 @@
+[![Build Status](https://app.bitrise.io/app/6b2a48ea83bf02dc/status.svg?token=iYPzkUxvpnJ007U9OoqeqQ)](https://app.bitrise.io/app/6b2a48ea83bf02dc)
 # CatArrest
 
 This software is a locker app particularly designed for linux based devices.
